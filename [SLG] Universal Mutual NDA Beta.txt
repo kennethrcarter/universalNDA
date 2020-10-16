@@ -10,7 +10,7 @@ The parties therefore agree as follows:
 1.        UNIVERSAL NDA
 
 
-1. Universal NDA. The Parties acknowledge and agree that, where noted, the clauses of this NDA are consistent with the terms of the so-called Universal NDA as of the Effective Date. The Parties agree that they will not seek to enforce the terms of this agreement in a materially different manner those contained in the Universal NDA as of the Effective Date. The Universal NDA is available at: https://github.com/kennethrcarter/universalNDA. 
+1. Universal NDA. The Parties acknowledge and agree that, where noted, the clauses of this NDA are consistent with the terms of the so-called Universal NDA as of the Effective Date. The Parties agree that they will not seek to enforce the terms of this agreement in a materially different manner to those contained in the Universal NDA as of the Effective Date. The Universal NDA is available at: https://github.com/kennethrcarter/universalNDA. 
 2. Included Clauses.  This agreement contains the following Universal NDA Clauses: Business Purpose; Business Purpose Specifically Defined; Business Purpose Excluding; Confidential Information; Confidentiality Information Specific Defined; Exclusions; Obligation to Maintain Confidentiality; Representatives; Representatives Specifically Defined; Term: [Term]; Duration of Confidential Information; Return of Property; No Obligation; No Warranty; Remedies; Choice of Law: [Choice of Law]; and Venue: [Venue] Where the Defendant Resides
 3. Other Clauses.  This Agreement contains clauses beyond those contained in the Universal NDA.
 
